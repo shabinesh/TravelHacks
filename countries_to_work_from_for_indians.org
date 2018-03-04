@@ -1,0 +1,53 @@
+* Countries info
+** Parameters
+*** High speed internet & coworking spaces
+*** Avg price of food per meal
+*** Safety
+*** Quality of life: like air quality, Gym, relative level of silence, traffic 
+*** Visa requirement
+*** Cheap airline connectivity, 
+*** nearest big city, international airport
+*** Rent
+*** Over all expense per month
+** Countries
+*** Nepal
+**** High speed internet & Coworking spaces
+     Many coworking spaces:
+     https://www.coworker.com/nepal/kathmandu
+     https://medium.com/@StartupsNepal/work-around-probably-the-most-affordable-co-working-space-in-kathmandu-53194d257bdc
+
+     internet companies support@worldlink.com.np ; 50 Mbps
+
+     Cost on average for internet $25
+     Cost for coworking space per month $60 - $100
+
+**** Avg price of food per meal and vegitarian friendly
+     Options to hire a cook, set up kitchen
+     online food delivery service: $4 per meal (high end) or < $1 (low end)
+     
+     $200 
+**** Safety
+     gendrlly safe from previous experience
+
+**** Quality of life: like air quality, Gym, relative level of silence, traffic 
+     traffic: Manageble
+     Gym: https://www.facebook.com/search/106085869430478/places-in/184405378265823/places/intersect/
+     Silence: Good
+     Air: Good
+     Weather: Cold to good
+     Places to hangout: Okay enough
+**** Visa requirement
+     Freedom of movement
+**** Cheap airline connectivity, 
+     Not gresy
+     Delhi <-> Kathmandu: Direct 
+     Bangalore <-> kathmandu: 
+     Bangkok <-> kathmandu:
+**** nearest big city, international airport:
+     Delhi
+**** Rent
+     ~ $250 to $300
+**** Over all expense per month
+     $600 to $700
+     
+     
